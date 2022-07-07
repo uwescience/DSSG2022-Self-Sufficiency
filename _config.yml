@@ -9,7 +9,7 @@ title:            Self-Sufficiency Standard
 tagline:          ''
 description:      'A 2022 Data Science for Social Good summer fellowship project at the University of Washington' 
 url:              "https://uwescience.github.io"
-baseurl:          "/DSSG-website-template"
+baseurl:          "/DSSG2022-Self-Sufficiency/"
 
 
 paginate:         5
