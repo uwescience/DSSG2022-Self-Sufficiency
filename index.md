@@ -20,7 +20,6 @@ Exploring new understandings of the cost of living at a basic needs level using 
 **DSSG Fellows:** [Azizakhon Mirsaidova (Northwestern University)](https://www.linkedin.com/in/azizamirsaidova/), [Priyana Patel (University of Washington)](https://www.linkedin.com/in/priyana-patel/), [Cheng Ren (UC Berkeley)](https://www.linkedin.com/in/cheng-ren-48283491/), [Hector Sosa (University of Massachusetts - Amherst)](https://www.linkedin.com/in/hector-j-sosa/)
 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/SSS_team.jpeg">
 
 # **Abstract**
 
