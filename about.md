@@ -2,9 +2,6 @@
 layout: page
 title: About
 ---
-
-# **About**
-
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/SSS_team.jpeg">
 
 ## **Bios** 
