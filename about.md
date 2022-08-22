@@ -37,7 +37,7 @@ Hector is excited to be a part of the DSSG program to utilize machine learning t
 
 
 ## **Project Links**
-The Self-Sufficiency Standard(SSS) was created by the Center of Women’s Welfare (CWW) at the University of Washington as an alternative to the Official Poverty Measure (OPM). The Self-Sufficiency Standard data is spread across the CWW website and this repository creates a database to hold the Self-Sufficiency Standard data.
+The Self-Sufficiency Standard (SSS) was created by the Center of Women’s Welfare (CWW) at the University of Washington as an alternative to the Official Poverty Measure (OPM). The Self-Sufficiency Standard data is spread across the CWW website and this repository creates a database to hold the Self-Sufficiency Standard data.
 
 [Self Sufficiency Standard (SSS) Database GitHub Page](https://github.com/Center-for-Women-s-Welfare/SSS)
 [Database Documentation](https://self-sufficiency-standard.readthedocs.io/en/latest/)
