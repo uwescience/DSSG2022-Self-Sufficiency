@@ -13,7 +13,7 @@ Exploring new understandings of the cost of living at a basic needs level using 
 
 **Project Leads:** [Annie Kucklick](https://www.linkedin.com/in/annie-kucklick-msw-11002b54/) and [Lisa Manzer](https://www.linkedin.com/in/lisa-manzer/) (Center for Women’s Welfare at the University of Washington)
 
-**Data Science Leads:** [Bryna Hazelton (University of Washington)](https://www.linkedin.com/in/bryna-hazelton-835485209/)
+**Data Science Lead:** [Bryna Hazelton (University of Washington)](https://www.linkedin.com/in/bryna-hazelton-835485209/)
 
 **DSSG Fellows:** [Azizakhon Mirsaidova (Northwestern University)](https://www.linkedin.com/in/azizamirsaidova/), [Priyana Patel (University of Washington)](https://www.linkedin.com/in/priyana-patel/), [Cheng Ren (UC Berkeley)](https://www.linkedin.com/in/cheng-ren-48283491/), [Hector Sosa (University of Massachusetts - Amherst)](https://www.linkedin.com/in/hector-j-sosa/)
 
