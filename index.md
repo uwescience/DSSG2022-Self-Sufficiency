@@ -12,8 +12,6 @@ Exploring new understandings of the cost of living at a basic needs level using 
 # **The Team**
 
 **Project Leads:** [Annie Kucklick](https://www.linkedin.com/in/annie-kucklick-msw-11002b54/) and [Lisa Manzer](https://www.linkedin.com/in/lisa-manzer/) (Center for Women’s Welfare at the University of Washington)
-[]
-
 
 **Data Science Leads:** [Bryna Hazelton (University of Washington)](https://www.linkedin.com/in/bryna-hazelton-835485209/)
 
