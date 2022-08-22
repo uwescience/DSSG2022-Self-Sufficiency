@@ -45,4 +45,4 @@ The Self-Sufficiency Standard(SSS) was created by the Center of Women’s Welfar
 
 ## **Acknowledgements**
 
-We would like  to thank [University of Washington Data Science for Social Good program] (https://escience.washington.edu/dssg/), project leaders Annie and Lisa from [Center for Women's Welfare](https://socialwork.uw.edu/research/womens-welfare), data scientist Bryna Hazelton, program directors Anissa Tanweer and Sarah Stone. 
+We would like  to thank the [UW Data Science for Social Good program](https://escience.washington.edu/dssg/), project leaders Annie Kucklick and Lisa Manzer from the [Center for Women's Welfare](https://socialwork.uw.edu/research/womens-welfare), data scientist Bryna Hazelton, Program Chair Anissa Tanweer, and Executive Director Sarah Stone. 
