@@ -28,25 +28,26 @@ The Self-Sufficiency Standard was created by Dr. Diana Pearce to provide an alte
 
 ## **Stakeholders**
 
-***Primary Stakeholders:***
+**Primary Stakeholders:**
 
 The database will enable the primary managers of the SSS data collection to efficiently pull the data needed for analysis and create visualizations and reports. Some potential analyses include looking at changes over time for a specific county, which would have been a difficult task with the data outside one single database. 
 
-***Center for Women’s Welfare (CWW):***
+* **Center for Women’s Welfare (CWW)**
 
-We collaborated with the Center for Women’s Welfare to understand what specific features were necessary when designing the database. Specifically, they shared how their current workflow for accessing recorded data and what analyses are a priority for furthering their research.
+    We collaborated with the Center for Women’s Welfare to understand what specific features were necessary when designing the database. Specifically, they shared how their current workflow for accessing recorded data and what analyses are a priority for furthering their research.
 
-***Research Scientists at the eScience Institute:***
+* **Research Scientists at the eScience Institute:**
 
-The team’s data scientist and additional researchers at eScience helped address questions related to database design, data science procedures, and working with object-oriented programming.
+    The team’s data scientist and additional researchers at eScience helped address questions related to database design, data science procedures, and working with object-oriented programming.
 
-***DSSG Fellows:***
+* **DSSG Fellows:** 
 
-As domain experts, the fellows held a large stake in organizing the information, defining the relationship between tables, and identifying the overall purpose of the database. 
+    As domain experts, the fellows held a large stake in organizing the information, defining the relationship between tables, and identifying the overall purpose of the database. 
 
-***Secondary Stakeholders:***
+**Secondary Stakeholders:**
 
-In addition, a partial SSS database will be distributed by the Center for Women’s Welfare to community partners across different states to conduct analyses for their state or area of interest. Community organizations, academic researchers, policy institutes, legal advocates, training providers, community action agencies, and state and local officials, among others, use the Standard. 
+The Center for Women’s Welfare plans to share out the data they query from the database with community partners to conduct analyses for their state or area of interest. Community organizations, academic researchers, policy institutes, legal advocates, training providers, community action agencies, and state and local officials, among others, use the Standard. The Standard is used for:
+
 
 The Standard is used for:
 * Policy Analysis
@@ -61,12 +62,18 @@ The Standard is used for:
 
 For the DSSG project, we met with the following stakeholders:
 
-* Shelan Aldridge, Special Grants Project Manager for the [Workforce Development Council of Seattle-King County](https://www.seakingwdc.org/). The WDC uses the Standard in a [Calculator](https://thecalculator.org/) tool that provides financial counseling to customers, and evaluates customer outcomes such as measuring the number of people who reached self-sufficiency by gender, age, race, and ethnicity.
+* **Shelan Aldridge**, Special Grants Project Manager for the [Workforce Development Council of Seattle-King County](https://www.seakingwdc.org/)
 
-* Charles Brennan, Deputy Director of Research at the [Colorado Center on Law and Policy (CCLP)](https://cclponline.org/).
-The CCLP uses the Standard to help Coloradans working in low-wage jobs receive better wages and support employment through child-care assistance and refundable tax credits
-* Dr. Diana Pearce, Founder of the Self-Sufficiency Standard
-Dr. Pearce utilizes the Self-Sufficiency Standard to validate costs for testimony as an expert-witness in Congress (e.g., traffic violations). 
+    The WDC uses the Standard in a [Calculator](https://thecalculator.org/) tool that provides financial counseling to customers, and evaluates customer outcomes such as measuring the number of people who reached self-sufficiency by gender, age, race, and ethnicity
+    
+* **Charles Brennan**, Deputy Director of Research at the [Colorado Center on Law and Policy (CCLP)](https://cclponline.org/)
+
+   The CCLP uses the Standard to help Coloradans working in low-wage jobs receive better wages and support employment through child-care assistance and refundable tax credits
+
+* **Dr. Diana Pearce**, Founder of the Self-Sufficiency Standard
+
+    Dr. Pearce utilizes the Self-Sufficiency Standard to validate costs for testimony as an expert-witness in Congress (e.g., traffic violations)
+    
 
 ## **Ethics**
 
