@@ -9,7 +9,7 @@ In the Self-Sufficiency Standard data, most of the columns are consistent among 
 
 We added boolean columns to the main table to indicate when the extra information was available. The primary keys are the same across the main and helper tables to make it easy to link the data across tables. The primary keys are family type, state, place, year, and analysis type. 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/SSS-database.png">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/database-simplified.png">
 
 *Figure 1: Database schema*
 
