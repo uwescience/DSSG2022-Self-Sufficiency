@@ -18,6 +18,7 @@ To store data from all the files in one database, we pre-processed the files to 
 
 ## Processes 
 **Schema**
+
 After becoming familiar with the dataset for each state, we identified the shared values between all files. We then used this information to create the database schema. We iterated several versions of the schema based on the needs of our project leads. In our finalized schema, we had a primary table with the Self-Sufficiency Standard information consistent across all files and four secondary tables with additional SSS information only present in some files. We also created tables to tie external data (e.g., from the Census and HUD) to the SSS data based on common analyses by stakeholders. 
 
 We added boolean columns to the main table to indicate when the extra information was available. The primary keys are the same across the main and helper tables to make it easy to link the data. The primary keys are family type, state, place, year, and analysis type. 
@@ -27,6 +28,7 @@ We added boolean columns to the main table to indicate when the extra informatio
 *Figure 2: Database Schema*
 
 **Coding the Database**
+
 We utilized the SQLAlchemy Python package to create the database tables and insert the data from the files into an SQLite database. After finalizing our schema, we broke into two teams to code the various tables via pair coding. During this workflow, we had the less experienced fellow type the code and the more experienced fellow assist them in writing it. After the work progressed, we transitioned into each team member working in their respective branch. We finalized the performance by creating functions to insert and extract the data from the database.
 
 ## Analyses
