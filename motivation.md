@@ -17,9 +17,9 @@ The Self-Sufficiency Project seeks to answer:
 ## **Background**
 
 
-**The Official Poverty Measure (OPM)**
+**The U.S. Official Poverty Measure (OPM)**
 
-The Official Poverty Measure is too low to define the real cost of living for working families at a minimally adequate level with flawed and problematic methodology, and societal changes have not been reflected in the measure’s calculation. The OPM is used to set eligibility for critical benefits (e.g. food assistance, child care subsidies, or housing vouchers). Many families who are unable to afford their basic needs are not considered “in need” by the OPM and cannot access these supports.
+The U.S. Official Poverty Measure is too low to define the real cost of living for working families at a minimally adequate level with flawed and problematic methodology, and societal changes have not been reflected in the measure’s calculation. The OPM is used to set eligibility for critical benefits (e.g. food assistance, child care subsidies, or housing vouchers). Many families who are unable to afford their basic needs are not considered “in need” by the OPM and cannot access these supports.
 
 **The Self-Sufficiency Standard (SSS)**
 
