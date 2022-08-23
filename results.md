@@ -48,7 +48,7 @@ The earnings gap between men and women varies by state. We conducted an analysis
 
 As engineers, we were interested in analyzing the cities that are hubs for technology. Thus, we choose King County (Seattle) and San Francisco County, which encompasses the entire city of San Francisco. We found that both female and male adults can afford to live alone in both cities. However, when a child is involved, single mothers cannot afford to make ends meet with 1 preschooler in both cities. Single fathers with 1 preschooler plus 1 school age child make a liveable wage in both cities. This clearly shows that there is a greater impact of the gender wage gap on the cost of living.
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/gender-comp.png">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/gender_comp.png">
 
 *Figure 3: Impact of gender wage gap on the cost of living*
 
