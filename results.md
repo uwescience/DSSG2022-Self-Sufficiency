@@ -47,7 +47,7 @@ To ensure the database workflow is accessible, reproducible, and transparent for
 	
 ## Analysis
 
-**### **Gender Wage Gap
+### Gender Wage Gap
 The earnings gap between men and women varies by state. We conducted an analysis for three household types: 
 * 1 adult
 * 1 adult and 1 preschooler
