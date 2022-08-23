@@ -19,9 +19,7 @@ To store data from all the files in one database, we pre-processed the files to 
 ## Processes 
 **Schema**
 
-After becoming familiar with the dataset for each state, we identified the shared values between all files. We then used this information to create the database schema. We iterated several versions of the schema based on the needs of our project leads. In our finalized schema, we had a primary table with the Self-Sufficiency Standard information consistent across all files and four secondary tables with additional SSS information only present in some files. We also created tables to tie external data (e.g., from the Census and HUD) to the SSS data based on common analyses by stakeholders. 
-
-We added boolean columns to the main table to indicate when the extra information was available. The primary keys are the same across the main and helper tables to make it easy to link the data. The primary keys are family type, state, place, year, and analysis type. 
+After becoming familiar with the dataset for each state, we identified the shared values between all files. We then used this information to create the database schema. We iterated several versions of the schema based on the needs of our project leads. In our finalized schema, we had a primary table with the Self-Sufficiency Standard information consistent across all files and four secondary tables with additional SSS information only present in some files. We also created tables to tie external data (e.g., from the Census and HUD) to the SSS data based on common analyses by stakeholders. We added boolean columns to the main table to indicate when the extra information was available. The primary keys are family type, state, place, year, and analysis type. The keys are the same across the main and helper tables to make it easy to link the data.
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/database-simplified.png">
 
