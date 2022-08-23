@@ -3,24 +3,17 @@ layout: page
 title: Results
 ---
 
-## Database Schema
-
-In the Self-Sufficiency Standard data, most of the columns are consistent among files, but a few columns that contain extra information are only present in some files. In order to increase the efficiency of access to the data, we created one table with the data that is always present and three helper tables to contain the extra information that is only sometimes available.
-
-We added boolean columns to the main table to indicate when the extra information was available. The primary keys are the same across the main and helper tables to make it easy to link the data across tables. The primary keys are family type, state, place, year, and analysis type. 
-
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/database-simplified.png">
-
-*Figure 1: Database schema*
-
 
 ## Main Table
-In order to create our database, we used Python and SQLAlcehmy to create the tables. The main table holds the columns that are consistent across all files of the Self-Sufficiency Standard that were available (as of August 2022). Each file contains family type, state, place, year, analysis type, which are our primary keys in the primary table. The files also contain a breakdown of family type which includes the number of adults, infants, preschoolers, schoolagers, and teenagers. There is also a weighted child count where, after 6 children, there is no specific count of children in each age group, instead just  total number of children is reported.
+The main table holds the columns that are consistent across all files of the Self-Sufficiency Standard that were available (as of August 2022). Each file contains family type, state, place, year, analysis type, which are our primary keys. A primary key a unique identifier that ties each table record. Within the files, there is a breakdown of family type including the number of adults, infants, preschoolers, schoolagers, and teenagers. There is also a weighted child count where, after 6 children, there is no specific count of children in each age group, instead just  total number of children is reported.
 
-* The main table also includes the costs of many life essentials. The costs included are housing, child care, transportation, health care, miscellaneous, and taxes. All costs are presented as costs per month for that specific family type.
-* In addition, the main table also includes the hourly, monthly, and annual wages that would allow that specific family type to reach self-sufficiency.
-* Furthermore, there is an emergency savings column which includes the amount needed to be saved per month for emergencies based on the combination of costs.
-* Finally, we include columns that state whether there is extra information for that row in one of the helper tables. We include a miscellaneous_is_secondary, health_care_is_secondary, and analysis_is_secondary Boolean columns. These columns contain True and False values that represent whether there is data in the helper tables related to the breakdown of miscellaneous costs (currently, this is the breakdown of broadband and cell phone expenses), health care (premium and out-of-pocket expenses), and other analyses (like ARPA analysis for the state of Oregon).
+For each family type, the main table includes:
+
+* The monthly costs of many life essentials (housing, child care, transportation, health care, miscellaneous, and taxes) 
+* Hourly, monthly, and annual wages to reach self-sufficiency
+* An emergency savings column which includes the amount needed to be saved per month for emergencies based on the combination of costs
+
+We created columns that state whether there is extra information for that row in one of the helper tables. We included **miscellaneous_is_secondary, health_care_is_secondary**, and **analysis_is_secondary** Boolean columns. These columns contain True and False values that represent whether there is data in the helper tables related to the breakdown of miscellaneous costs (broadband and cell phone expenses), health care (premium and out-of-pocket expenses), and other analyses (i.e., ARPA analysis for the state of Oregon).
  
 
 ## Helper Tables
