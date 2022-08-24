@@ -19,7 +19,7 @@ To store data from all the files in one database, we pre-processed the files to 
 *Figure 1: Pre-processing of the Self-Sufficiency Database*
 
 ## Tools
-We used *Python* to read and clean the Excel files. Specifically, we used Pandas to read the files as data frames. We then implemented the *SQLAlchemy* library to create tables that are hosted in *SQLite*. To ensure we could insert information into the database, we verified that the column names were similar across the files. Once the column names were standardized, we could insert the data from the files into the table using a large commit function. 
+We used *Python* to read and clean the Excel files. Specifically, we used Pandas to read the files as data frames. We then implemented the *SQLAlchemy* library to create tables that are hosted in *SQLite*. To ensure we could insert information into the database, we verified that the column names were similar across the files. Once the column names were standardized, we could enter the data from the files into the table using a large commit function. 
 
 ## Processes 
 **Schema**
