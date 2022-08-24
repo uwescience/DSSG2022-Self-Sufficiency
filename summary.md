@@ -11,6 +11,7 @@ The Self-Sufficiency Standard data includes 147 files in Excel file format (xlsx
 **Additional Datasets**
 
 **Data Preparation**
+
 To store data from all the files in one database, we pre-processed the files to standardize the column names. We utilized Python packages such as Pandas and NumPy to read the data from the Excel files and to conduct data cleaning.
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/pre-processing.png">
