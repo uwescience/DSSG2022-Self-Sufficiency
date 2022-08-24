@@ -4,17 +4,20 @@ title: Summary
 ---
 
 ## Data
+**SSS Data**
 The Self-Sufficiency Standard data includes 147 files in Excel file format (xlsx, xlsb) by state and year. Each file lists counties with family types and related costs, such as housing, child care, and food costs. Most columns are consistent across files, but a few columns that contain extra information are present in specific files. For example, broadband and cell phone costs are only included in 6 files.
 
-## Tools
-[Add tools]
+**Additional Datasets**
 
-## Data Preparation
+**Data Preparation**
 To store data from all the files in one database, we pre-processed the files to standardize the column names. We utilized Python packages such as Pandas and NumPy to read the data from the Excel files and to conduct data cleaning.
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/pre-processing.png">
 
 *Figure 1: Pre-processing of the Self-Sufficiency Database*
+
+## Tools
+We used *Python* to read and clean the Excel files. Specifically, we used Pandas to read the files as data frames. We then implemented the *SQLAlchemy* library to create tables that are hosted in *SQLite*. To ensure we could insert information into the database, we verified that the column names were similar across the files. Once the column names were standardized, we could insert the data from the files into the table using a large commit function. 
 
 ## Processes 
 **Schema**
