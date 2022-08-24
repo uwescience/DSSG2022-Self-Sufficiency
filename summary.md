@@ -33,7 +33,3 @@ After becoming familiar with the dataset for each state, we identified the share
 **Coding the Database**
 
 We utilized the SQLAlchemy Python package to create the database tables and insert the data from the files into an SQLite database. After finalizing our schema, we broke into two teams to code the various tables via pair coding. During this workflow, we had the less experienced fellow type the code and the more experienced fellow assist them in writing it. After the work progressed, we transitioned into each team member working in their respective branch. We finalized the performance by creating functions to insert and extract the data from the database.
-
-## Analyses
-
-## Limitations
