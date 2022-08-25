@@ -15,7 +15,7 @@ baseurl:          "/DSSG2022-Self-Sufficiency/"
 paginate:         5
 
 # Custom vars
-version:          0.0.0
+version:          1.0.0
 
-github:
+github:           https://github.com/Center-for-Women-s-Welfare/SSS
   repo:           https://github.com/uwescience/DSSG2022-Self-Sufficiency/
